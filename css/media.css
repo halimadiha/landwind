@@ -1,0 +1,695 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+/*common start*/
+.btn_common {
+    padding: 8px 12px;
+}
+.c_padding1{
+    padding-bottom: 60px;
+}
+.c_padding2{
+    padding: 60px 0;
+}
+/*header start*/
+header{
+    padding: 0;
+}
+.btn_common {
+    width: 150px;
+    height: 42px;
+}
+.menu ul li a {
+    padding-bottom: 0;
+}
+.dp_a{
+	padding: 6px 0;
+}
+.dp_m {
+    width: 285px;
+    padding: 20px 10px;
+}
+.dp_m[data-bs-popper] {
+    top: 90px;
+    left: 3px;
+}
+.dp_btn {
+    margin: 0 56px;
+}
+/*hero banner start*/
+.hero_banner {
+    margin-top: 80px;
+    margin-bottom: 30px;
+}
+.b_text {
+    margin-top: 20px;
+    text-align: center;
+}
+.fh_1 {
+    margin-bottom: 12px;
+    font-size: 28px;
+    line-height: 35px;
+}
+.b_p1 {
+    margin-bottom: 25px;
+    font-size: 15px;
+    line-height: 20px;
+    color: #6B7280;
+}
+.b_btn1 {
+    width: 186px;
+    height: 38px;
+}
+.b_btn2 {
+    width: 128px;
+    height: 38px;
+    margin-top: 15px;
+}
+.b_img {
+    padding: 0 0px;
+}
+/*customer logo*/
+.c_img {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+/*feature start*/
+/*1st row start*/
+.f_text {
+    margin-top: 10px;
+}
+.ch_2 {
+    font-size: 16px;
+}
+.f_p1 {
+    padding: 0 0 15px 0;
+    font-size: 15px;
+    line-height: 20px;
+}
+.f_ul {
+    margin: 10px 0;
+}
+.f_ul ul li i {
+    font-size: 12px;
+}
+.f_ul ul li span {
+    font-size: 14px;
+    line-height: 23px;
+}
+.f_p2 {
+    font-size: 15px;
+    line-height: 20px;
+}
+.f_img {
+    padding: 0;
+}
+/*1st row end*/
+/*2nd row start*/
+.fs_2{
+    margin-top: 20px;
+}
+.f_text2 {
+    margin-top: 10px;
+}
+/*2nd row end*/
+/*feature end*/
+/*social start*/
+.social_proof {
+    padding-top: 60px;
+    text-align: center;
+}
+.s_text {
+    margin-bottom: 0;
+}
+.s_span {
+    font-size: 16px;
+}
+.s_ul ul li span {
+    line-height: 26px;
+}
+.sh_2 {
+    font-size: 18px;
+    line-height: 30px;
+}
+.s_sec{
+    padding: 0 65px;
+}
+.s_service {
+    margin-top: 30px;
+}
+.s_h3 {
+    font-size: 20px;
+}
+/*social end*/
+/*pricing section start*/
+.pricing{}
+/*1st row start*/
+.p_h1{
+    font-size: 25px;
+}
+.p_p{
+    margin-top: 10px;
+    font-size: 16px;
+}
+/*3rd row start*/
+.p_cart {
+    margin-top: 20px;
+}
+.c_pad {
+    padding: 0;
+}
+.c_p {
+    margin-top: 10px;
+    font-size: 15px;
+}
+.c_h3 {
+    margin: 15px 0;
+    font-size: 30px;
+}
+.c_ul {
+    margin-bottom: 20px;
+}
+.c_ul li span {
+    line-height: 28px;
+}
+.c_btn {
+    width: 250px;
+    height: 42px;
+}
+
+/*3rd row end*/
+/*pricing section end*/
+/*faq start*/
+.f_item {
+    margin-top: 20px;
+}
+.f_btn{
+    padding: 15px !important;
+}
+.f_p{
+    padding: 15px;
+}
+/*faq end*/
+/*footer top start*/
+.footer_top{
+    padding: 20px;
+}
+.ft_text{
+    margin-top: 25px;
+    text-align: center;
+}
+.ft_text h2{}
+.ft_text ul li{}
+..ft_text ul li a{}
+/*footer top end*/
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*common start*/
+.btn_common {
+    width: 138px;
+    height: 38px;
+    padding: 8px 12px;
+}
+.c_padding1{
+    padding-bottom: 60px;
+}
+.c_padding2{
+    padding: 60px 0;
+}
+/*header start*/
+header{
+    padding: 0;
+}
+.menu ul li a {
+    padding-bottom: 0;
+}
+.dp_a{
+	padding: 6px 0;
+}
+.dp_m[data-bs-popper] {
+    top: 90px;
+    left: 60px;
+}
+.dp_btn {
+    margin: 0 110px;
+}
+/*hero banner start*/
+.hero_banner {
+    margin-top: 80px;
+    margin-bottom: 30px;
+}
+.b_text {
+    margin-top: 20px;
+    text-align: center;
+}
+.fh_1 {
+    margin-bottom: 15px;
+    font-size: 33px;
+    line-height: 44px;
+}
+.b_p1 {
+    margin-bottom: 25px;
+    font-size: 17px;
+    line-height: 22px;
+    color: #6B7280;
+}
+.b_btn1 {
+    width: 186px;
+    height: 38px;
+}
+.b_btn2 {
+    width: 128px;
+    height: 38px;
+}
+.b_img {
+    padding: 0 120px;
+}
+/*customer logo*/
+.c_logo {
+    margin: 20px 0 0 40px;
+}
+/*feature start*/
+/*1st row start*/
+.f_text {
+    margin-top: 20;
+}
+.ch_2 {
+    font-size: 22px;
+}
+.f_p1 {
+    padding: 0 0 15px 0;
+    font-size: 15px;
+    line-height: 20px;
+}
+.f_ul {
+    margin: 10px 0;
+}
+.f_ul ul li i {
+    font-size: 12px;
+}
+.f_ul ul li span {
+    font-size: 15px;
+    line-height: 23px;
+}
+.f_p2 {
+    font-size: 15px;
+    line-height: 20px;
+}
+.f_img {
+    padding: 0 60px;
+}
+/*1st row end*/
+/*2nd row start*/
+.fs_2{
+    margin-top: 20px;
+}
+.f_text2 {
+    margin-top: 20px;
+}
+/*2nd row end*/
+/*feature end*/
+/*social start*/
+.social_proof {
+    padding-top: 60px;
+    text-align: center;
+}
+.s_text {
+    margin-bottom: 0;
+}
+.sh_2 {
+    font-size: 20px;
+}
+.s_sec{
+    padding: 0 65px;
+}
+.s_service {
+    margin-top: 30px;
+}
+.s_one {
+    margin: 0;
+}
+.s_h3 {
+    font-size: 20px;
+}
+/*social end*/
+/*pricing section start*/
+.pricing{}
+/*1st row start*/
+.p_h1{
+    font-size: 25px;
+}
+.p_p{
+    margin-top: 15px;
+    font-size: 17px;
+}
+/*3rd row start*/
+.p_cart {
+    margin-top: 20px;
+}
+.c_pad {
+    padding: 0 100px;
+}
+.c_h3 {
+    margin: 20px 0;
+    font-size: 35px;
+}
+.c_ul {
+    margin-bottom: 20px;
+}
+.c_ul li span {
+    line-height: 30px;
+}
+.c_btn {
+    width: 268px;
+    height: 42px;
+}
+/*3rd row end*/
+/*pricing section end*/
+/*faq start*/
+.f_item {
+    margin-top: 20px;
+}
+.f_btn{
+    padding: 15px !important;
+}
+.f_p{
+    padding: 15px;
+}
+/*faq end*/
+/*footer top start*/
+.footer_top{
+    padding: 20px;
+}
+.ft_text {
+    margin-top: 25px;
+    text-align: center;
+}
+.ft_text h2{}
+.ft_text ul li{}
+..ft_text ul li a{}
+/*footer top end*/
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*common start*/
+.btn_common {
+    width: 138px;
+    height: 38px;
+    padding: 5px 10px;
+}
+.c_padding1{
+    padding-bottom: 80px;
+}
+.c_padding2{
+    padding: 80px 0;
+}
+/*header start*/
+.menu ul li a {
+    padding-bottom: 0;
+}
+.dp_a{
+	padding: 6px 0;
+}
+.dp_m[data-bs-popper] {
+    top: 90px;
+    left: 157px;
+}
+.dp_btn {
+    margin: 0 110px;
+}
+/*hero banner start*/
+.hero_banner {
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.b_text {
+    margin-top: 25px;
+    text-align: center;
+}
+.fh_1 {
+    margin-bottom: 15px;
+    font-size: 42px;
+    line-height: 50px;
+}
+.b_p1 {
+    margin-bottom: 30px;
+    font-size: 18px;
+    line-height: 28px;
+    color: #6B7280;
+}
+.b_btn1 {
+    width: 185px;
+    height: 42px;
+}
+.b_btn2 {
+    width: 130px;
+    height: 42px;
+}
+.b_img {
+    padding: 0 120px;
+}
+/*customer logo*/
+.c_logo {
+    margin: 20px 0 0 40px;
+}
+/*feature start*/
+/*1st row start*/
+.f_text {
+    margin-top: 20px;
+}
+.ch_2 {
+    font-size: 20px;
+}
+.f_p1 {
+    padding: 0 0 15px 0;
+    font-size: 15px;
+    line-height: 20px;
+}
+.f_ul {
+    margin: 10px 0;
+}
+.f_ul ul li i {
+    font-size: 12px;
+}
+.f_ul ul li span {
+    font-size: 15px;
+    line-height: 23px;
+}
+.f_p2 {
+    font-size: 15px;
+    line-height: 20px;
+}
+.f_img {
+    margin-top: 50px;
+}
+/*1st row end*/
+/*2nd row start*/
+.fs_2{
+    margin-top: 30px;
+}
+.f_text2 {
+    margin-top: 22px;
+}
+/*2nd row end*/
+/*feature end*/
+/*social start*/
+.social_proof {
+    padding-top: 80px;
+    text-align: center;
+}
+.s_text {
+    margin-bottom: 40px;
+}
+.sh_2 {
+    font-size: 20px;
+}
+.s_sec{
+    padding: 0 50px;
+}
+.s_h3 {
+    font-size: 20px;
+}
+/*social end*/
+/*pricing section start*/
+.pricing{}
+/*1st row start*/
+.p_h1{
+    font-size: 28px;
+}
+.p_p{
+    margin-top: 15px;
+}
+/*3rd row start*/
+.p_cart {
+    margin-top: 30px;
+}
+.c_pad {
+    padding: 0 180px;
+}
+.c_h3 {
+    margin: 20px 0;
+    font-size: 35px;
+}
+.c_ul {
+    margin-bottom: 20px;
+}
+.c_ul li span {
+    line-height: 30px;
+}
+.c_btn {
+    width: 300px;
+    height: 42px;
+}
+/*3rd row end*/
+/*pricing section end*/
+/*faq start*/
+.f_item {
+    margin-top: 30px;
+}
+/*faq end*/
+/*footer top start*/
+.footer{
+    padding: 30px;
+}
+.ft_text {
+    margin-top: 25px;
+    text-align: center;
+}
+.ft_text h2{}
+.ft_text ul li{}
+..ft_text ul li a{}
+/*footer top end*/
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*header start*/
+.menu ul li a {
+    padding-right: 15px !important;
+}
+.btn_start {
+    width: 125px;
+    height: 38px;
+}
+/*hero banner start*/
+.b_text {
+    margin-top: 50px;
+}
+.fh_1 {
+    margin-bottom: 20px;
+    font-size: 48px;
+    line-height: 55px;
+}
+.b_p1 {
+    margin-bottom: 30px;
+    font-size: 18px;
+    line-height: 28px;
+    color: #6B7280;
+}
+/*feature start*/
+/*1st row start*/
+.f_text {
+    margin-top: 0;
+}
+.ch_2 {
+    font-size: 28px;
+}
+.f_p1 {
+    padding: 18px 0;
+    font-size: 18px;
+    line-height: 28px;
+}
+.f_ul {
+    margin: 20px 0;
+}
+.f_p2 {
+    font-size: 18px;
+    line-height: 28px;
+}
+/*1st row end*/
+/*2nd row start*/
+.f_text2 {
+    margin-top: 16px;
+}
+/*2nd row end*/
+/*feature end*/
+/*social start*/
+.sh_2 {
+    font-size: 24px;
+    line-height: 40px;
+}
+.s_service {
+    margin-top: 20px;
+}
+/*social end*/
+
+/*pricing section start*/
+.pricing{}
+
+/*3rd row start*/
+.p_cart {
+    width: 100%;
+    padding: 30px 5px;
+}
+.c_h3 {
+    margin: 22px 0;
+    font-size: 40px;
+}
+.c_ul {
+    margin-bottom: 22px;
+}
+.c_ul li span {
+    line-height: 32px;
+}
+.c_btn {
+    width: 245px;
+    height: 42px;
+}
+/*3rd row end*/
+/*pricing section end*/
+}
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+/*feature start*/
+/*1st row start*/
+.f_text {
+    margin-top: 0;
+}
+.ch_2 {
+    font-size: 33px;
+}
+.f_ul {
+    margin: 22px 0;
+}
+/*1st row end*/
+/*2nd row start*/
+.f_text2 {
+    margin-top: 22px;
+}
+/*2nd row end*/
+/*feature end*/
+/*social start*/
+.sh_2 {
+    font-size: 33px;
+}
+/*social end*/
+/*pricing section start*/
+.pricing{}
+
+/*3rd row start*/
+.c_btn {
+    width: 290px;
+    height: 42px;
+}
+/*3rd row end*/
+/*pricing section end*/
+	
+}
+
+/*Extra Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+
+}
